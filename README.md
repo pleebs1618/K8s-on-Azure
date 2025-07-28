@@ -10,7 +10,8 @@ It follows the concepts of Kelsey Hightower’s “Kubernetes the Hard Way”, a
 
 Install Azure CLI and Create a Resource Group
 
-'''
+```
 az login
 az group create -n kubernetes -l eastus2
-'''
+```
+
